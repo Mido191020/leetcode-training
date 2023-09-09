@@ -1,0 +1,10 @@
+C:\Users\Mido\source\repos\TCP app\bin\Debug\TCP app.exe.config
+C:\Users\Mido\source\repos\TCP app\bin\Debug\TCP app.exe
+C:\Users\Mido\source\repos\TCP app\bin\Debug\TCP app.pdb
+C:\Users\Mido\source\repos\TCP app\obj\Debug\TCP app.csproj.AssemblyReference.cache
+C:\Users\Mido\source\repos\TCP app\obj\Debug\TCP_app.Form1.resources
+C:\Users\Mido\source\repos\TCP app\obj\Debug\TCP_app.Properties.Resources.resources
+C:\Users\Mido\source\repos\TCP app\obj\Debug\TCP app.csproj.GenerateResource.cache
+C:\Users\Mido\source\repos\TCP app\obj\Debug\TCP app.csproj.CoreCompileInputs.cache
+C:\Users\Mido\source\repos\TCP app\obj\Debug\TCP app.exe
+C:\Users\Mido\source\repos\TCP app\obj\Debug\TCP app.pdb
